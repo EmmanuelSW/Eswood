@@ -1,0 +1,20 @@
+{
+    "name": "emmanuelsw/eswood",
+    "type": "project",
+    "description": "Esctructura PHP enriquecida.",
+    "keywords": ["skeleton", "boilerplate", "naked", "barebone", "application"],
+    "homepage": "https://github.com/emmanuelsw/eswood",
+    "license": "GNU General Public license",
+    "authors": [
+        {
+            "name": "EmmanuelSW",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/emmanuelsw/eswood"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
